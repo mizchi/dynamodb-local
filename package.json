@@ -1,5 +1,5 @@
 {
-  "name": "dynamodb-local",
+  "name": "@mizchi/dynamodb-local",
   "description": "A wrapper for AWS DynamoDB Local, intended for use in testcases",
   "version": "0.0.13",
   "repository": "doapp-ryanp/dynamodb-local",
